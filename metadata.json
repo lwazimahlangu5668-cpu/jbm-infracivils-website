@@ -1,0 +1,6 @@
+{
+  "name": "JBM Infracivils | Civil Engineering & Construction",
+  "description": "Premier civil engineering and construction landing page and interactive project cost estimator for JBM Infracivils in South Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
